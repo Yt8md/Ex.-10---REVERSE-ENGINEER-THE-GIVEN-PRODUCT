@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.No.03 - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -32,11 +32,17 @@
 
 ## Input:
 
+![image](https://github.com/user-attachments/assets/6f0467c0-d253-4327-ae55-b037eb0ad10d)
+
+
 ### Output:
 
+![image](https://github.com/user-attachments/assets/bee5ccc9-df8c-4ae2-96aa-bf18cb2c65c2)
 
-### Name:
-### Register Number:
+
+
+### Name: MATHESH S
+### Register Number: 212223230123
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
